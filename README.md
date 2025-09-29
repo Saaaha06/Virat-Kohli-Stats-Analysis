@@ -10,7 +10,9 @@ This dashboard showcases Virat Kohli’s career statistics from 2008 to 2025, in
 
 Tech Stack 
 📊 Power Bi - Main Data Visulization platforms used for preparing the data.
+
 📂 Power Querty - Data transformation and cleaning layer for reshaping and preparing the data.
+
 📂 File Formats - .pbix for development and ,png for dashboard previews.
 
 Data Source
