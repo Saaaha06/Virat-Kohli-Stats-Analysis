@@ -16,6 +16,6 @@ Source - www.cricmetric.com/playerstats.py?player=V%20Kohli&format=all&role=all
 
 Screenshot / Demos
 
-[DashBoard Preview] - ![image alt] (https://github.com/Saaaha06/Virat-Kohli-Stats-Analysis/blob/main/Virat%20stats%20Demo%20Screen%20Shot.png)
+[DashBoard Preview] - ![image alt](https://github.com/Saaaha06/Virat-Kohli-Stats-Analysis/blob/main/Virat%20stats%20Demo%20Screen%20Shot.png)
 
 
