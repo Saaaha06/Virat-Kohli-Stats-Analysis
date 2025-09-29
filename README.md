@@ -9,6 +9,7 @@ Short Description / Purpose
 This dashboard showcases Virat Kohli’s career statistics from 2008 to 2025, including total runs, innings, average, and strike rate. It highlights his boundaries, centuries by year, top-performing years, and yearly run distribution, giving a clear visual of his consistency and dominance in cricket.
 
 Tech Stack 
+
 📊 Power Bi - Main Data Visulization platforms used for preparing the data.
 
 📂 Power Querty - Data transformation and cleaning layer for reshaping and preparing the data.
